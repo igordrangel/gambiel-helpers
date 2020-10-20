@@ -4,6 +4,7 @@
   "type": "library",
   "license": "proprietary",
   "homepage": "https://github.com/igordrangel/gambiel-helpers",
+  "minimum-stability": "stable",
   "keywords": [
     "gambiel",
     "helpers"
