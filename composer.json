@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0",
+  "name": "igordrangel/gambiel-helpers",
+  "description": "",
+  "type": "library",
+  "license": "proprietary",
+  "homepage": "https://github.com/igordrangel/gambiel-helpers",
+  "keywords": [
+    "gambiel",
+    "helpers"
+  ],
+  "authors": [
+    {
+      "name": "Igor D. Rangel",
+      "email": "igordrangel@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "GambiEl": "src/"
+    }
+  }
+}
