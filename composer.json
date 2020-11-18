@@ -1,11 +1,9 @@
 {
   "name": "igordrangel/gambiel-helpers",
-  "version": "1.0.3",
   "description": "",
   "type": "library",
   "license": "proprietary",
   "homepage": "https://github.com/igordrangel/gambiel-helpers",
-  "minimum-stability": "dev",
   "keywords": [
     "gambiel",
     "helpers"
