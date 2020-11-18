@@ -1,6 +1,6 @@
 <?php
 	
-	namespace GambiEl\tmpHelpers;
+	namespace GambiEl\Helpers;
 	
 	class GambielArrayHelper {
 		public static function arrayIndexExist(?array $arr, string $indexName): bool {

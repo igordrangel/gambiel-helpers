@@ -1,6 +1,6 @@
 <?php
 	
-	namespace GambiEl\tmpEnums;
+	namespace GambiEl\Enums;
 	
 	class StringTransformEnum {
 		const UPPERCASE = 1;

@@ -1,8 +1,8 @@
 <?php
 	
-	namespace GambiEl\tmpHelpers;
+	namespace GambiEl\Helpers;
 	
-	use GambiEl\tmpEnums\StringTransformEnum;
+	use GambiEl\Enums\StringTransformEnum;
 	
 	class GambielStringHelper {
 		private static string $Data;
